@@ -3,7 +3,7 @@ Program: SlotMachineGUI2.py
 Author: Cathryn Byrnes 11-18-21
 
 *** Note: the 
-files "breezypythongui.py" and image file "slots.jpg" MUST be in the same directory as the file in order for the application to work.***
+files "breezypythongui.py", image file "slots.jpg" and sound files "slots-machine.wav", "sad.mp3" and "gameover.mp3" MUST be in the same directory as the file in order for the application to work.***
 """
 
 from breezypythongui import EasyFrame
